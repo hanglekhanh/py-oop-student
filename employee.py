@@ -6,6 +6,5 @@ class employee:
     def __init__(self, id_employee, short_name, id_team, facerec_code):
         self.id_employee = id_employee
         self.short_name = short_name
-        self.short_name = short_name
         self.id_team = id_team
         self.facerec_code = facerec_code
