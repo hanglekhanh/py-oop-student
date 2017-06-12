@@ -1,4 +1,4 @@
-''' ./training_meeting.py'''
+''' ./Model/training_meeting.py'''
 from Meeting import Meeting
 
 
