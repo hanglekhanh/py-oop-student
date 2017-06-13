@@ -25,4 +25,3 @@ class Meeting:
     def get_count_meeting(cls):
         '''this function use for count how many meeting created'''
         return Meeting.count_meeting
-        
